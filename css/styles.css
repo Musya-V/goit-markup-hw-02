@@ -25,6 +25,22 @@ body {
   color: var(--secondary-txt-cl);
   background-color: #ffffff;
 }
+/* Logo styles */
+.logo {
+  font-family: var(--secondary-font);
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--btn-bg-cl);
+}
+.logo-color {
+  color: var(--dark-bg-cl);
+}
+.logo-footer {
+  color: var(--light-bg-cl);
+}
 
 /* Base styles */
 .section {
@@ -142,7 +158,4 @@ body {
 /* Footer styles */
 .footer {
   background-color: var(--dark-bg-cl);
-}
-
-.footer-logo {
 }
