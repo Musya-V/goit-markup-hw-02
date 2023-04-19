@@ -1,0 +1,87 @@
+:root {
+  /* Fonts */
+  --primery-font: "open sans", sans-serif;
+  --secondary-font: "raleway", sans-serif;
+  /* Color */
+
+  /* Others */
+}
+
+body {
+  font-family: var(--primery-font);
+}
+
+/* Base styles */
+.section {
+}
+.list {
+  list-style: none;
+}
+.link {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Header styles */
+.header {
+}
+.header-nav {
+}
+.header-logo {
+}
+.header-nav-list {
+}
+.header-nav-link {
+}
+.header-contact {
+}
+
+/* Hero styles */
+.hero {
+}
+.hero-title {
+}
+.hero-button {
+}
+
+/* Feature styles */
+.feature {
+}
+.feature-list {
+}
+.feature-item {
+}
+.feature-title {
+}
+.feature-text {
+}
+
+/* Presentation styles  */
+.presentation {
+}
+.presentation-title {
+}
+.presentation-item {
+}
+.presentation-img {
+}
+
+/* Team styles */
+.team-headline {
+}
+.team-item {
+}
+.team-img {
+}
+.team-title {
+}
+.team-desc {
+}
+
+/* Footer styles */
+.footer {
+}
+.footer-logo {
+}
+.footer-text {
+}
