@@ -143,6 +143,15 @@ body {
 .header-contact:focus {
   color: var(--accent-txt-cl);
 }
+.header-link {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--main-txt-cl);
+}
 
 /* Hero styles */
 .hero {
