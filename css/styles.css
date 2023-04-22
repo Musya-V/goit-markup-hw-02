@@ -168,7 +168,7 @@ body {
   background-color: var(--light-bg-cl);
 }
 .team-bg {
-  background-color: var(--header-txt-cl);
+  background-color: #ffffff;
 }
 
 /* Footer styles */
